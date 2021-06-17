@@ -11,5 +11,5 @@ and after test performing code give output(For example there is significant diff
 There are 4 Test=
 1. T-test----for columns that has one numeric and one category column.In this case character column has only two fields.
 2. chi-square test----for columns that has only categories(characters).
-3. anova test----for columns that has one numeric and one category column.In this case charecter column has more than two fields.
+3. anova test----for columns that has one numeric and one category column.In this case character column has more than two fields.
 4. corelation test----for only numeric columns.
