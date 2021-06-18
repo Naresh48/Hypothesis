@@ -1,9 +1,5 @@
 # Hypothesis
 DEPRECATED repository.
-Freelancing project.
-Client wants code in R that will give her result about the relation between columns of the data.
-
-this is a small example code that match client's requirement.
 
 In this code if we enter data and specify the columns(columns that we want to know about,significant or not,corelated or not), then code run specific HYPOTHESIS TEST AUTOMATICALLY
 and after test performing code give output(For example there is significant difference between column data or these columns are positive corelated etc.)
