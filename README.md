@@ -1,6 +1,8 @@
 # Hypothesis
 DEPRECATED repository.
 
+This project is in R language.
+
 In this code if we enter data and specify the columns(columns that we want to know about,significant or not,corelated or not), then code run specific HYPOTHESIS TEST AUTOMATICALLY
 and after test performing code give output(For example there is significant difference between column data or these columns are positive corelated etc.)
 
