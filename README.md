@@ -1,5 +1,4 @@
 # Hypothesis
-DEPRECATED repository.
 
 This project is in R language.
 
